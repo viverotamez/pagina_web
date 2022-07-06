@@ -525,6 +525,8 @@ img {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
+    color: #0F530F;
+    font-family:'Century Gothic';
 }
 
 .main-menu-area .navbar {
@@ -710,25 +712,26 @@ img {
     flex: 0 0 33.333333%;
     max-width: 33.333333%;
     padding: 40px 15px;
-    background-color: #b8b8b8;
+    background-color: #C13617;
     text-align: center;
     -ms-flex-item-align: stretch;
-        align-self: stretch;
+    align-self: stretch;
 }
 
-.top-discount-area .single-discount-area:nth-child(2) {
-    background-color: #26701b;
-}
+    .top-discount-area .single-discount-area:nth-child(2) {
+        background-color: #F8B365;
+    }
 
-.top-discount-area .single-discount-area:last-child {
-    background-color: #3a3a3a;
-}
+    .top-discount-area .single-discount-area:last-child {
+        background-color: #136B13;
+    }
 
-.top-discount-area .single-discount-area h5 {
-    font-size: 18px;
-    color: #fff;
-    margin-bottom: 15px;
-}
+    .top-discount-area .single-discount-area h5 {
+        font-size: 18px;
+        color: #fff;
+        margin-bottom: 15px;
+        font-family: 'Century Gothic';
+    }
 
 .top-discount-area .single-discount-area h6,
 .top-discount-area .single-discount-area a {
@@ -762,6 +765,7 @@ img {
     text-transform: uppercase;
     color: #fff;
     margin-bottom: 20px;
+    font-family: 'Century Gothic';
 }
 
 .welcome_slide_text h6,
@@ -2069,4 +2073,9 @@ img {
     font-size: 12px;
     line-height: 2;
     color: #9f9f9f;
+}
+
+.btn-custom {
+    text-decoration: none;
+    color: #8B1313;
 }

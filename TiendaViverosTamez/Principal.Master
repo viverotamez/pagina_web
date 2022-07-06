@@ -136,8 +136,8 @@
                             <!-- Iniciar Sesión -->
                             <asp:Panel ID="pnl_login" runat="server" ClientIDMode="Static">
                                 <div class="row">
-                                    <a href="<%= ResolveClientUrl("~/Login.aspx") %>" class="btn btn-link"><i class="ti-user"></i>&nbsp;&nbsp;Iniciar Sesión</a>
-                                    <a href="<%= ResolveClientUrl("~/Registro.aspx") %>" class="btn btn-link">Registrarse</a>
+                                    <a href="<%= ResolveClientUrl("~/Login.aspx") %>" class="btn btn-link btn-custom"><i class="ti-user"></i>&nbsp;&nbsp;Iniciar Sesión</a>
+                                    <a href="<%= ResolveClientUrl("~/Registro.aspx") %>" class="btn btn-link btn-custom">Registrarse</a>
                                 </div>
                             </asp:Panel>
                             <asp:Panel ID="pnl_logeado" runat="server" style="display:none" ClientIDMode="Static">
