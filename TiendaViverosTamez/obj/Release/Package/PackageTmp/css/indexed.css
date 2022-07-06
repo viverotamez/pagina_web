@@ -1,0 +1,19 @@
+﻿#cajaformulario, #cajaformulario-buscar {
+    float: left;
+    padding: 20px;
+    border: 1px solid #999999;
+}
+#cajadatos, #cajadatos-buscar {
+    float: left;
+    width: 400px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px solid #999999;
+}
+#clave, #texto {
+    width: 200px;
+}
+#cajadatos > div, #cajadatos-buscar > div {
+    padding: 5px;
+    border-bottom: 1px solid #999999;
+}

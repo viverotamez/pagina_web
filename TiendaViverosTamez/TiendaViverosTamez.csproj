@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8BA0575D-B92B-4235-96D6-0F42ED083631}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TiendaViverosTamez</RootNamespace>
+    <AssemblyName>TiendaViverosTamez</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=8.0.17.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\baks\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web, Version=8.0.17.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\baks\MySql.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PDSACryptography">
+      <HintPath>..\..\..\baks\ddl\PDSACryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet, Version=2016.1.0.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106, processorArchitecture=MSIL">
+      <HintPath>packages\SSH.NET.2016.1.0\lib\net40\Renci.SshNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet.Async, Version=1.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Renci.SshNet.Async.1.4.0\lib\net40\Renci.SshNet.Async.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="administrador\Administrador.aspx" />
+    <Content Include="administrador\CarritoClientes.aspx" />
+    <Content Include="administrador\Descuentos.aspx" />
+    <Content Include="administrador\HistorialVentas.aspx" />
+    <Content Include="administrador\ModificarCliente.aspx" />
+    <Content Include="administrador\ModificarPersonal.aspx" />
+    <Content Include="administrador\ModificarProveedor.aspx" />
+    <Content Include="administrador\ModificarUsuario.aspx" />
+    <Content Include="administrador\Nomina.aspx" />
+    <Content Include="administrador\NominaDetalle.aspx" />
+    <Content Include="administrador\NuevoCliente.aspx" />
+    <Content Include="administrador\NuevoPersonal.aspx" />
+    <Content Include="administrador\NuevoProveedor.aspx" />
+    <Content Include="administrador\NuevoUsuario.aspx" />
+    <Content Include="Carrito.aspx" />
+    <Content Include="Confirmar_Carrito.aspx" />
+    <Content Include="Contacto.aspx" />
+    <Content Include="css\alertas.css" />
+    <Content Include="css\animate.css" />
+    <Content Include="css\bootstrap-datetimepicker.min.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\core-style.css" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\indexed.css" />
+    <Content Include="css\jquery-ui.min.css" />
+    <Content Include="css\magnific-popup.css" />
+    <Content Include="css\nouislider.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\responsive.css" />
+    <Content Include="css\themify-icons.css" />
+    <Content Include="fonts\themify.svg" />
+    <Content Include="img\articulo-01.jpeg" />
+    <Content Include="img\articulo-02.jpeg" />
+    <Content Include="img\articulo-03.jpeg" />
+    <Content Include="img\articulo-04.jpeg" />
+    <Content Include="img\articulo-05.jpeg" />
+    <Content Include="img\articulo-06.jpeg" />
+    <Content Include="img\articulo-07.jpg" />
+    <Content Include="img\articulo-08.jpg" />
+    <Content Include="img\articulo-09.jpg" />
+    <Content Include="img\articulo-10.jpg" />
+    <Content Include="img\articulo-11.jpg" />
+    <Content Include="img\articulo-12.jpg" />
+    <Content Include="img\articulo-13.jpg" />
+    <Content Include="img\articulo-14.jpg" />
+    <Content Include="img\articulo-15.jpg" />
+    <Content Include="img\image-01.jpeg" />
+    <Content Include="img\image-02.jpeg" />
+    <Content Include="img\image-03.jpeg" />
+    <Content Include="img\logo-vivero.jpeg" />
+    <Content Include="img\noticia-01.jpeg" />
+    <Content Include="img\noticia-02.jpeg" />
+    <Content Include="Index.aspx" />
+    <Content Include="js\active.js" />
+    <Content Include="js\alertas.js" />
+    <Content Include="js\bootstrap-datetimepicker.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\indexed.js" />
+    <Content Include="js\jquery-2.2.4.min.js" />
+    <Content Include="js\plugins.js" />
+    <Content Include="js\popper.min.js" />
+    <Content Include="Login.aspx" />
+    <Content Include="Noticias.aspx" />
+    <Content Include="Origen.aspx" />
+    <Content Include="Pago.aspx" />
+    <Content Include="Registro.aspx" />
+    <Content Include="RegistroArticulos.aspx" />
+    <Content Include="Servicios.aspx" />
+    <Content Include="Sucursales.aspx" />
+    <Content Include="Trayectoria.aspx" />
+    <Content Include="Ubicacion.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="administrador\Administrador.aspx.cs">
+      <DependentUpon>Administrador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\Administrador.aspx.designer.cs">
+      <DependentUpon>Administrador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\CarritoClientes.aspx.cs">
+      <DependentUpon>CarritoClientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\CarritoClientes.aspx.designer.cs">
+      <DependentUpon>CarritoClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\Descuentos.aspx.cs">
+      <DependentUpon>Descuentos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\Descuentos.aspx.designer.cs">
+      <DependentUpon>Descuentos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\HistorialVentas.aspx.cs">
+      <DependentUpon>HistorialVentas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\HistorialVentas.aspx.designer.cs">
+      <DependentUpon>HistorialVentas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\ModificarCliente.aspx.cs">
+      <DependentUpon>ModificarCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\ModificarCliente.aspx.designer.cs">
+      <DependentUpon>ModificarCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\ModificarPersonal.aspx.cs">
+      <DependentUpon>ModificarPersonal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\ModificarPersonal.aspx.designer.cs">
+      <DependentUpon>ModificarPersonal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\ModificarProveedor.aspx.cs">
+      <DependentUpon>ModificarProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\ModificarProveedor.aspx.designer.cs">
+      <DependentUpon>ModificarProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\ModificarUsuario.aspx.cs">
+      <DependentUpon>ModificarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\ModificarUsuario.aspx.designer.cs">
+      <DependentUpon>ModificarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\Nomina.aspx.cs">
+      <DependentUpon>Nomina.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\Nomina.aspx.designer.cs">
+      <DependentUpon>Nomina.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\NominaDetalle.aspx.cs">
+      <DependentUpon>NominaDetalle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\NominaDetalle.aspx.designer.cs">
+      <DependentUpon>NominaDetalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\NuevoCliente.aspx.cs">
+      <DependentUpon>NuevoCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\NuevoCliente.aspx.designer.cs">
+      <DependentUpon>NuevoCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\NuevoPersonal.aspx.cs">
+      <DependentUpon>NuevoPersonal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\NuevoPersonal.aspx.designer.cs">
+      <DependentUpon>NuevoPersonal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\NuevoProveedor.aspx.cs">
+      <DependentUpon>NuevoProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\NuevoProveedor.aspx.designer.cs">
+      <DependentUpon>NuevoProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="administrador\NuevoUsuario.aspx.cs">
+      <DependentUpon>NuevoUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="administrador\NuevoUsuario.aspx.designer.cs">
+      <DependentUpon>NuevoUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Carrito.aspx.cs">
+      <DependentUpon>Carrito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Carrito.aspx.designer.cs">
+      <DependentUpon>Carrito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="clases\anios.cs" />
+    <Compile Include="clases\categorias.cs" />
+    <Compile Include="clases\clasificacion_descuento.cs" />
+    <Compile Include="clases\clientes.cs" />
+    <Compile Include="clases\conexion.cs" />
+    <Compile Include="clases\consultas.cs" />
+    <Compile Include="clases\contactos.cs" />
+    <Compile Include="clases\cotizacion.cs" />
+    <Compile Include="clases\descuentos.cs" />
+    <Compile Include="clases\inventario.cs" />
+    <Compile Include="clases\nomina.cs" />
+    <Compile Include="clases\personal.cs" />
+    <Compile Include="clases\productos.cs" />
+    <Compile Include="clases\proveedores.cs" />
+    <Compile Include="clases\puestos.cs" />
+    <Compile Include="clases\quincenas.cs" />
+    <Compile Include="clases\seguridad.cs" />
+    <Compile Include="clases\status.cs" />
+    <Compile Include="clases\usuarios.cs" />
+    <Compile Include="clases\ventas.cs" />
+    <Compile Include="Confirmar_Carrito.aspx.cs">
+      <DependentUpon>Confirmar_Carrito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Confirmar_Carrito.aspx.designer.cs">
+      <DependentUpon>Confirmar_Carrito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contacto.aspx.cs">
+      <DependentUpon>Contacto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contacto.aspx.designer.cs">
+      <DependentUpon>Contacto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Noticias.aspx.cs">
+      <DependentUpon>Noticias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Noticias.aspx.designer.cs">
+      <DependentUpon>Noticias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Origen.aspx.cs">
+      <DependentUpon>Origen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Origen.aspx.designer.cs">
+      <DependentUpon>Origen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pago.aspx.cs">
+      <DependentUpon>Pago.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pago.aspx.designer.cs">
+      <DependentUpon>Pago.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.Master.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Principal.Master.designer.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro.aspx.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro.aspx.designer.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroArticulos.aspx.cs">
+      <DependentUpon>RegistroArticulos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RegistroArticulos.aspx.designer.cs">
+      <DependentUpon>RegistroArticulos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios.aspx.cs">
+      <DependentUpon>Servicios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Servicios.aspx.designer.cs">
+      <DependentUpon>Servicios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sucursales.aspx.cs">
+      <DependentUpon>Sucursales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sucursales.aspx.designer.cs">
+      <DependentUpon>Sucursales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Trayectoria.aspx.cs">
+      <DependentUpon>Trayectoria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Trayectoria.aspx.designer.cs">
+      <DependentUpon>Trayectoria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Ubicacion.aspx.cs">
+      <DependentUpon>Ubicacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ubicacion.aspx.designer.cs">
+      <DependentUpon>Ubicacion.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Principal.Master" />
+    <Content Include="fonts\themify.eot" />
+    <Content Include="fonts\themify.ttf" />
+    <Content Include="fonts\themify.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2443</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:2443/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

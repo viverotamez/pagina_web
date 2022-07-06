@@ -1,0 +1,136 @@
+c:\users\wbernal\documents\visual studio 2013\Projects\TiendaViverosTamez\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+c:\users\wbernal\documents\visual studio 2013\Projects\TiendaViverosTamez\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+c:\users\wbernal\documents\visual studio 2013\Projects\TiendaViverosTamez\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+c:\users\wbernal\documents\visual studio 2013\Projects\TiendaViverosTamez\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csprojResolveAssemblyReference.cache
+c:\users\wbernal\documents\visual studio 2013\Projects\TiendaViverosTamez\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+c:\users\wbernal\documents\visual studio 2013\Projects\TiendaViverosTamez\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+C:\inetpub\wwwroot\TiendaViverosTamez\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+C:\inetpub\wwwroot\TiendaViverosTamez\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+C:\inetpub\wwwroot\TiendaViverosTamez\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+C:\inetpub\wwwroot\TiendaViverosTamez\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+C:\inetpub\wwwroot\TiendaViverosTamez\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+C:\inetpub\wwwroot\TiendaViverosTamez\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+C:\inetpub\wwwroot\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+C:\inetpub\wwwroot\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+C:\inetpub\wwwroot\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+C:\inetpub\wwwroot\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\MySql.Data.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\MySql.Web.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\Google.Protobuf.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\Renci.SshNet.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\BouncyCastle.Crypto.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\MySql.Data.xml
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\bin\MySql.Web.xml
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csprojResolveAssemblyReference.cache
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\MySql.Data.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\MySql.Web.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\Google.Protobuf.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\Renci.SshNet.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\BouncyCastle.Crypto.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\MySql.Data.xml
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\bin\MySql.Web.xml
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csprojResolveAssemblyReference.cache
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\bin\Google.Protobuf.dll
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\bin\Renci.SshNet.dll
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\bin\BouncyCastle.Crypto.dll
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\bin\MySql.Data.xml
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\bin\MySql.Web.xml
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csprojAssemblyReference.cache
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CopyComplete
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+C:\Users\wbernal\Desktop\Proyecto Vivero\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\MySql.Data.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\MySql.Web.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\Google.Protobuf.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\Renci.SshNet.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\BouncyCastle.Crypto.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\MySql.Data.xml
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\bin\MySql.Web.xml
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csprojAssemblyReference.cache
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CoreCompileInputs.cache
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CopyComplete
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+C:\Users\dlok_\OneDrive\Escritorio\Proyectos\Proyecto Vivero\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csprojAssemblyReference.cache
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\MySql.Data.dll
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\MySql.Web.dll
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\PDSACryptography.dll
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\Google.Protobuf.dll
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\Renci.SshNet.dll
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\BouncyCastle.Crypto.dll
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\MySql.Data.xml
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\bin\MySql.Web.xml
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CopyComplete
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+C:\Proyectos\ProyectosLee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+C:\Proyectos\Lee\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+C:\Proyectos\Lee\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+C:\Proyectos\Lee\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+C:\Proyectos\Lee\TiendaViverosTamez\bin\Google.Protobuf.dll
+C:\Proyectos\Lee\TiendaViverosTamez\bin\Renci.SshNet.dll
+C:\Proyectos\Lee\TiendaViverosTamez\bin\BouncyCastle.Crypto.dll
+C:\Proyectos\Lee\TiendaViverosTamez\bin\MySql.Data.xml
+C:\Proyectos\Lee\TiendaViverosTamez\bin\MySql.Web.xml
+C:\Proyectos\Lee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.AssemblyReference.cache
+C:\Proyectos\Lee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CoreCompileInputs.cache
+C:\Proyectos\Lee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CopyComplete
+C:\Proyectos\Lee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+C:\Proyectos\Lee\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\MySql.Data.dll
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\MySql.Web.dll
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\Google.Protobuf.dll
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\Renci.SshNet.dll
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\BouncyCastle.Crypto.dll
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\MySql.Data.xml
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\MySql.Web.xml
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csprojAssemblyReference.cache
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CoreCompileInputs.cache
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CopyComplete
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+F:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+E:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\TiendaViverosTamez.dll.config
+E:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\TiendaViverosTamez.dll
+E:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\bin\TiendaViverosTamez.pdb
+E:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.AssemblyReference.cache
+E:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CoreCompileInputs.cache
+E:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.csproj.CopyComplete
+E:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.dll
+E:\WILLEE\SISTEMA VIVERO\TiendaViverosTamez\obj\Debug\TiendaViverosTamez.pdb
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\bin\TiendaViverosTamez.dll.config
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\bin\TiendaViverosTamez.dll
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\bin\TiendaViverosTamez.pdb
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\obj\Debug\TiendaViverosTamez.csproj.AssemblyReference.cache
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\obj\Debug\TiendaViverosTamez.csproj.CoreCompileInputs.cache
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\obj\Debug\TiendaViverosTamez.csproj.CopyComplete
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\obj\Debug\TiendaViverosTamez.dll
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\obj\Debug\TiendaViverosTamez.pdb
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\bin\Renci.SshNet.Async.dll
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\bin\Renci.SshNet.dll
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\bin\Renci.SshNet.xml
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\bin\Renci.SshNet.Async.xml
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\bin\Newtonsoft.Json.dll
+C:\Proyectos\Lee\TiendaViverosTamez_ORIGINAL\bin\Newtonsoft.Json.xml

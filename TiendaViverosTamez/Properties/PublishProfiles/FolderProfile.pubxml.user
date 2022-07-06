@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\vivero_tamez</_PublishTargetUrl>
+    <History>True|2021-08-06T01:24:18.4189103Z;True|2021-08-05T19:46:34.8723856-05:00;True|2021-08-05T19:42:50.7144367-05:00;True|2021-08-05T19:32:51.2880554-05:00;True|2021-08-05T19:29:45.8728008-05:00;True|2021-08-05T19:24:26.1437626-05:00;True|2021-08-05T19:10:38.3477356-05:00;True|2021-08-05T19:05:28.5508395-05:00;True|2021-07-30T14:32:39.3048646-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="administrador/Administrador.aspx">
+      <publishTime>07/21/2021 20:32:09</publishTime>
+    </File>
+    <File Include="administrador/CarritoClientes.aspx">
+      <publishTime>07/29/2021 19:16:23</publishTime>
+    </File>
+    <File Include="administrador/Descuentos.aspx">
+      <publishTime>07/21/2021 20:32:24</publishTime>
+    </File>
+    <File Include="administrador/HistorialVentas.aspx">
+      <publishTime>08/04/2021 21:57:43</publishTime>
+    </File>
+    <File Include="administrador/ModificarCliente.aspx">
+      <publishTime>07/21/2021 20:32:37</publishTime>
+    </File>
+    <File Include="administrador/ModificarPersonal.aspx">
+      <publishTime>07/21/2021 20:32:42</publishTime>
+    </File>
+    <File Include="administrador/ModificarProveedor.aspx">
+      <publishTime>07/21/2021 20:32:48</publishTime>
+    </File>
+    <File Include="administrador/ModificarUsuario.aspx">
+      <publishTime>07/21/2021 20:32:53</publishTime>
+    </File>
+    <File Include="administrador/Nomina.aspx">
+      <publishTime>07/21/2021 20:32:58</publishTime>
+    </File>
+    <File Include="administrador/NominaDetalle.aspx">
+      <publishTime>07/21/2021 20:33:03</publishTime>
+    </File>
+    <File Include="administrador/NuevoCliente.aspx">
+      <publishTime>07/21/2021 20:33:09</publishTime>
+    </File>
+    <File Include="administrador/NuevoPersonal.aspx">
+      <publishTime>07/21/2021 20:33:14</publishTime>
+    </File>
+    <File Include="administrador/NuevoProveedor.aspx">
+      <publishTime>07/21/2021 20:33:20</publishTime>
+    </File>
+    <File Include="administrador/NuevoUsuario.aspx">
+      <publishTime>07/21/2021 20:33:25</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>06/25/2019 06:22:24</publishTime>
+    </File>
+    <File Include="bin/MySql.Web.dll">
+      <publishTime>06/25/2019 06:22:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 14:03:36</publishTime>
+    </File>
+    <File Include="bin/PDSACryptography.dll">
+      <publishTime>11/05/2014 17:09:50</publishTime>
+    </File>
+    <File Include="bin/Renci.SshNet.Async.dll">
+      <publishTime>04/17/2019 11:41:28</publishTime>
+    </File>
+    <File Include="bin/Renci.SshNet.dll">
+      <publishTime>10/16/2017 15:53:06</publishTime>
+    </File>
+    <File Include="bin/TiendaViverosTamez.dll">
+      <publishTime>08/05/2021 20:19:27</publishTime>
+    </File>
+    <File Include="bin/TiendaViverosTamez.pdb">
+      <publishTime>08/05/2021 20:19:27</publishTime>
+    </File>
+    <File Include="Carrito.aspx">
+      <publishTime>07/29/2021 19:13:49</publishTime>
+    </File>
+    <File Include="Confirmar_Carrito.aspx">
+      <publishTime>07/21/2021 19:14:28</publishTime>
+    </File>
+    <File Include="Contacto.aspx">
+      <publishTime>07/02/2020 21:39:48</publishTime>
+    </File>
+    <File Include="css/alertas.css">
+      <publishTime>03/13/2020 11:47:18</publishTime>
+    </File>
+    <File Include="css/animate.css">
+      <publishTime>03/11/2020 12:10:36</publishTime>
+    </File>
+    <File Include="css/bootstrap-datetimepicker.min.css">
+      <publishTime>06/12/2021 16:13:44</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>06/15/2021 21:15:24</publishTime>
+    </File>
+    <File Include="css/core-style.css">
+      <publishTime>03/19/2020 22:28:22</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>03/11/2020 12:19:50</publishTime>
+    </File>
+    <File Include="css/indexed.css">
+      <publishTime>08/03/2020 19:01:02</publishTime>
+    </File>
+    <File Include="css/jquery-ui.min.css">
+      <publishTime>03/11/2020 12:04:10</publishTime>
+    </File>
+    <File Include="css/magnific-popup.css">
+      <publishTime>03/11/2020 12:04:10</publishTime>
+    </File>
+    <File Include="css/nouislider.css">
+      <publishTime>03/11/2020 12:04:10</publishTime>
+    </File>
+    <File Include="css/owl.carousel.css">
+      <publishTime>03/11/2020 12:04:10</publishTime>
+    </File>
+    <File Include="css/responsive.css">
+      <publishTime>03/11/2020 12:04:10</publishTime>
+    </File>
+    <File Include="css/themify-icons.css">
+      <publishTime>03/11/2020 12:04:10</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>03/11/2020 12:19:48</publishTime>
+    </File>
+    <File Include="fonts/themify.eot">
+      <publishTime>03/11/2020 12:11:34</publishTime>
+    </File>
+    <File Include="fonts/themify.svg">
+      <publishTime>03/11/2020 12:11:34</publishTime>
+    </File>
+    <File Include="fonts/themify.ttf">
+      <publishTime>03/11/2020 12:11:34</publishTime>
+    </File>
+    <File Include="fonts/themify.woff">
+      <publishTime>03/11/2020 12:11:34</publishTime>
+    </File>
+    <File Include="img/articulo-01.jpeg">
+      <publishTime>03/11/2020 14:34:46</publishTime>
+    </File>
+    <File Include="img/articulo-02.jpeg">
+      <publishTime>03/11/2020 14:34:46</publishTime>
+    </File>
+    <File Include="img/articulo-03.jpeg">
+      <publishTime>03/11/2020 14:34:46</publishTime>
+    </File>
+    <File Include="img/articulo-04.jpeg">
+      <publishTime>03/11/2020 14:34:46</publishTime>
+    </File>
+    <File Include="img/articulo-05.jpeg">
+      <publishTime>03/11/2020 14:34:46</publishTime>
+    </File>
+    <File Include="img/articulo-06.jpeg">
+      <publishTime>03/11/2020 14:48:08</publishTime>
+    </File>
+    <File Include="img/articulo-07.jpg">
+      <publishTime>07/16/2020 21:48:32</publishTime>
+    </File>
+    <File Include="img/articulo-08.jpg">
+      <publishTime>07/16/2020 21:48:32</publishTime>
+    </File>
+    <File Include="img/articulo-09.jpg">
+      <publishTime>07/16/2020 21:48:32</publishTime>
+    </File>
+    <File Include="img/articulo-10.jpg">
+      <publishTime>07/16/2020 21:48:32</publishTime>
+    </File>
+    <File Include="img/articulo-11.jpg">
+      <publishTime>07/16/2020 21:48:32</publishTime>
+    </File>
+    <File Include="img/articulo-12.jpg">
+      <publishTime>07/16/2020 21:48:32</publishTime>
+    </File>
+    <File Include="img/articulo-13.jpg">
+      <publishTime>07/16/2020 21:48:32</publishTime>
+    </File>
+    <File Include="img/articulo-14.jpg">
+      <publishTime>07/16/2020 21:48:32</publishTime>
+    </File>
+    <File Include="img/articulo-15.jpg">
+      <publishTime>07/16/2020 21:48:32</publishTime>
+    </File>
+    <File Include="img/image-01.jpeg">
+      <publishTime>03/11/2020 12:57:18</publishTime>
+    </File>
+    <File Include="img/image-02.jpeg">
+      <publishTime>03/11/2020 13:02:12</publishTime>
+    </File>
+    <File Include="img/image-03.jpeg">
+      <publishTime>03/11/2020 13:02:12</publishTime>
+    </File>
+    <File Include="img/logo-vivero.jpeg">
+      <publishTime>03/11/2020 12:26:50</publishTime>
+    </File>
+    <File Include="img/noticia-01.jpeg">
+      <publishTime>03/17/2020 14:40:14</publishTime>
+    </File>
+    <File Include="img/noticia-02.jpeg">
+      <publishTime>03/17/2020 14:40:14</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>07/01/2020 11:34:00</publishTime>
+    </File>
+    <File Include="js/active.js">
+      <publishTime>03/11/2020 12:06:42</publishTime>
+    </File>
+    <File Include="js/alertas.js">
+      <publishTime>03/13/2020 11:47:12</publishTime>
+    </File>
+    <File Include="js/bootstrap-datetimepicker.js">
+      <publishTime>06/12/2021 16:13:52</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>03/11/2020 12:15:36</publishTime>
+    </File>
+    <File Include="js/indexed.js">
+      <publishTime>08/03/2020 19:00:46</publishTime>
+    </File>
+    <File Include="js/jquery-2.2.4.min.js">
+      <publishTime>03/11/2020 12:06:36</publishTime>
+    </File>
+    <File Include="js/plugins.js">
+      <publishTime>03/11/2020 12:06:42</publishTime>
+    </File>
+    <File Include="js/popper.min.js">
+      <publishTime>03/11/2020 12:06:42</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>06/16/2021 20:46:38</publishTime>
+    </File>
+    <File Include="Noticias.aspx">
+      <publishTime>03/17/2020 14:41:38</publishTime>
+    </File>
+    <File Include="Origen.aspx">
+      <publishTime>03/12/2020 12:08:16</publishTime>
+    </File>
+    <File Include="Pago.aspx">
+      <publishTime>08/04/2021 21:44:38</publishTime>
+    </File>
+    <File Include="Principal.Master">
+      <publishTime>08/04/2021 21:03:10</publishTime>
+    </File>
+    <File Include="Registro.aspx">
+      <publishTime>06/05/2021 15:02:38</publishTime>
+    </File>
+    <File Include="RegistroArticulos.aspx">
+      <publishTime>08/03/2020 19:01:48</publishTime>
+    </File>
+    <File Include="Servicios.aspx">
+      <publishTime>03/20/2020 23:26:58</publishTime>
+    </File>
+    <File Include="Sucursales.aspx">
+      <publishTime>08/05/2021 19:31:56</publishTime>
+    </File>
+    <File Include="Trayectoria.aspx">
+      <publishTime>03/12/2020 12:10:30</publishTime>
+    </File>
+    <File Include="Ubicacion.aspx">
+      <publishTime>08/04/2021 21:00:16</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/05/2021 19:10:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
